@@ -1,0 +1,12 @@
+open a new project: npx create-react-app name
+start the project: npm start
+go to a directory: cd /location
+if bug : npm cache clean --force
+install the interface of the server: npm install react-router-dom
+
+fix a problem that can't start with npm start : npm install react-scripts --save-dev
+
+typescript: npm create-react-app routertutorial --template typescript
+
+bootstrap: npm install bootstrap
+import "bootstrap/dist/css/bootstrap.min.css";
